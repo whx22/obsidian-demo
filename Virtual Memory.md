@@ -10,3 +10,5 @@
 this is context. ^label1
 
 this is context too. ^label2
+
+this is git commit test.
